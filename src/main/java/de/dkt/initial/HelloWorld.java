@@ -10,7 +10,7 @@ public class HelloWorld {
 	}
 	
 	public static void main(String[] args) {
-		System.out.println("Hello world test for Jenkis !!!");
+		System.out.println("Hello world test for Jenkis!!!");
 	}
 
 }

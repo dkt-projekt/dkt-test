@@ -81,14 +81,12 @@
 
 	<distributionManagement>
 		<repository>
-			<id>dkt-nexus</id>
-			<name>Internal Releases</name>
-			<url>http://v.1blu.de/nexus/content/repositories/releases/</url>
+			<id>releases</id>
+			<url>http://v35731.1blu.de:8081/nexus/content/repositories/releases</url>
 		</repository>
 		<snapshotRepository>
-			<id>dkt-nexus</id>
-			<name>Internal Releases</name>
-			<url>http://v.1blu.de/nexus/content/repositories/snapshots/</url>
+			<id>snapshots</id>
+			<url>http://v35731.1blu.de:8081/nexus/content/repositories/snapshots</url>
 		</snapshotRepository>
 	</distributionManagement>
 
